@@ -1,1 +1,1 @@
-# Operating-System-Deadlock-Project
+All the codes are inside file.
